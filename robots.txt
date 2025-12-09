@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+Disallow: /temp/
+Disallow: /private-scripts/
+
+Sitemap: https://atom9ix9.github.io/new-owd/sitemap.xml
